@@ -1,0 +1,13 @@
+{
+  "name": "newsarchiver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:44Chann/NewsArchiverScript.git",
+  "author": "= <=>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "firebase": "^9.6.9",
+    "node-fetch": "^3.2.3"
+  }
+}
